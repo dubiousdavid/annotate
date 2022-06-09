@@ -1,8 +1,8 @@
-![Room Key](https://raw.githubusercontent.com/roomkey/annotate/master/roomkey-logo-dark.png)
-
 # annotate
 
 Annotate is a library for adding type annotations to functions and checking those types at runtime.
+
+DEPRECATED
 
 ## Purpose
 
